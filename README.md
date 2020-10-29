@@ -1,6 +1,4 @@
-# CS370D3
-CS370D3
-
+List App
 How to use: 
     <br>
         <li>Select List: 
