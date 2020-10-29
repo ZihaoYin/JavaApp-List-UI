@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="Lists">
-        <item>List1</item>>
-        <item>List2</item>>
-        <item>List3</item>>
-    </string-array>>
+<!--    <string-array name="Lists">-->
+<!--        <item>List1</item>>-->
+<!--        <item>List2</item>>-->
+<!--        <item>List3</item>>-->
+<!--    </string-array>>-->
 
     <string-array name="ListFunction">
         <item>Function Lists</item>>
